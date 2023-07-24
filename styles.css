@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+*{
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;
+}
+div{
+    display: inline-block;
+    width: 200px;
+    height: 300px;
+    justify-content: center;
+    margin: 100px;
+    padding: 30px;
+    background-color:#F1F1F1;
+    box-shadow: 2px 2px 4px lightblue;
+
+}
+img{
+    width: 200px;
+    height: 120px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+button{
+    border: none;
+    text-align: center;
+    background-color:#FE625A;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 35%;
+}
